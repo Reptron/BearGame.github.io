@@ -1,1 +1,1 @@
-# BearGame
+# BearGame.github.io
